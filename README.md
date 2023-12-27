@@ -2,7 +2,9 @@
 
 My Pick - Both
 
-Reason for picking both (one of the reasons is I had the time to do the both):
+_**Reason for picking both (one of the reasons is I had the time to do the both):**_
+
+**Other Reasons** ⬇️
 
 ## Custom Hooks:
 
